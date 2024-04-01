@@ -26,7 +26,7 @@
 
 ### Libraries
 - **Shadcn-UI** - **Redux** - **LiveBlocks** - **Fabric.js** - **NextAuth** - **Pusher**
-- 
+
 ---
 
 ## Projects
