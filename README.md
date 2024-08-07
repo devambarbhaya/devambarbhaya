@@ -70,9 +70,4 @@
 - Fun Development
 - **HTML**, **CSS**, **JS**
 - [Website](https://devambarbhaya.github.io/snake-game/) | [GitHub](https://github.com/devambarbhaya/snake-game/)
-
----
-
-[![Devam's GitHub stats](https://github-readme-stats.vercel.app/api?username=devambarbhaya)](https://github.com/devambarbhaya/github-readme-stats)
-
 ---
